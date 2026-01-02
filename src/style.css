@@ -1,0 +1,42 @@
+/* Urban Pulse Labs - Weather Widget Styles */
+
+.root {
+    -fx-background-color: #2C3E50;
+    -fx-font-family: 'Segoe UI', sans-serif;
+}
+
+/* Text styles */
+.label {
+    -fx-text-fill: #ECF0F1;
+}
+
+/* Button styles */
+.button {
+    -fx-background-color: #3498DB;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #2980B9;
+}
+
+.button:disabled {
+    -fx-background-color: #7F8C8D;
+}
+
+/* TextField styles */
+.text-field {
+    -fx-background-color: #34495E;
+    -fx-text-fill: white;
+    -fx-background-radius: 5;
+    -fx-border-color: #3498DB;
+    -fx-border-radius: 5;
+}
+
+/* Separator styles */
+.separator .line {
+    -fx-border-color: #3498DB;
+    -fx-border-width: 1px;
+}
