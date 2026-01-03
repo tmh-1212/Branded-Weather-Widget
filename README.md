@@ -2,8 +2,7 @@
 ## Urban Pulse Labs - Smart City Weather Widget
 
 **Project Name:** Chapter3_Challenge_BrandedWeatherWidget  
-**Company Selected:** Urban Pulse Labs  
-**Submission Date:** January 3, 2026  
+**Company Selected:** Urban Pulse Labs   
 **Course:** JavaFX Application Development  
 
 ---
@@ -268,7 +267,6 @@ The implementation shows proficiency in JavaFX fundamentals while going beyond b
 
 ---
 
-**Developer:** [Your Name]  
-**Course:** JavaFX Application Development  
-**Submission Date:** January 3, 2026  
-**Project Status:** COMPLETE 
+**Developer:** [Tesfamikael hailu]  
+**Course:** JavaFX Application Development    
+
